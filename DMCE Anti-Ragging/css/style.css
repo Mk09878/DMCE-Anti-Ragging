@@ -1,0 +1,30 @@
+
+body{
+    background-color: #9f8cf4;
+    margin:0;
+    padding:10px ;
+    font-family: sans-serif;
+}
+
+.wrap{
+    width: 250px;
+    margin: 50px auto;
+    background-image: #7d86ea;
+    float: right;
+    padding: 0px 60px 30px;
+       
+}
+.intro{
+    width: 400px;
+        margin: 600px auto;
+        float: left;
+    padding: 10px
+}
+.image{
+    float: left
+}
+
+.jumbotron{
+    width: 500px;
+    height: 200px;
+}

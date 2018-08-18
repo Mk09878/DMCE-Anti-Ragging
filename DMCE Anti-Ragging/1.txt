@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>
+Alligator
+</title>
+<body>
+<h1>Alligator</head>
+<h2>Introduction</h2>
+<p>An alligator is a crocodilian in the genus Alligator of the family Alligatoridae. The two living species are the American alligator (A. mississippiensis) and the Chinese alligator (A. sinensis). In addition, several extinct species of alligator are known from fossil remains. Alligators first appeared during the Paleocene epoch about 66 million years ago.
+</p>
+</body>
+</html>
